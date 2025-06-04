@@ -54,7 +54,7 @@ Installation
 Clone the repo
 
 
-git clone https://github.com/yourusername/aletha_exercise_app.git
+git clone [https://github.com/yourusername/aletha_exercise_app.git]
 cd aletha_exercise_app
 Install dependencies
 
